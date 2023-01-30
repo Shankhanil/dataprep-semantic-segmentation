@@ -1,0 +1,39 @@
+[{
+    "1": "batch_1",
+    "2": "batch_2",
+    "3": "Batch 3",
+    "4": "batch_4",
+    "5": "Batch 5",
+    "6": "Batch 6",
+    "7": "batch_7",
+    "8": "batch_8",
+    "9": "batch_9",
+    "10": "batch_10",
+    "11": "batch_11"
+},
+{
+    "1": "replaced-batches/{}/*/*/",
+    "2": "replaced-batches/{}/*/*/",
+    "3": "replaced-batches/{}/*/*/",
+    "4": "replaced-batches/{}/",
+    "5": "replaced-batches/{}/*/*/",
+    "6": "replaced-batches/{}/*/*/",
+    "7": "replaced-batches/{}/*/*/",
+    "8": "replaced-batches/{}/",
+    "9": "replaced-batches/{}/",
+    "10": "replaced-batches/{}/",
+    "11": "replaced-batches/{}/"
+},
+{
+    "coco": "*coco 1*",
+    "cocozip": "*coco 1.0.zip",
+    "annotations": "*coco 1*/annotations",
+    "images": "*coco 1*/images",
+
+    "segmentation": "*segmentation*",
+    "segzip": "*segmentation mask 1.1.zip",
+    "seg_jpeg": "*segmentation mask 1.1/JPEG*"
+},
+{
+    "replaced-batches/batch_1/Female/knitted tops/task_knitted tops-2022_08_10_18_41_26-coco 1.0": "replaced-batches/batch_1/Female/knitted tops/task_knitted tops-2022_08_10_18_41_26-cvat for images 1.1/images"
+}]

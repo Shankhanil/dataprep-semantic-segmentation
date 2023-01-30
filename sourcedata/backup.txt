@@ -1,0 +1,16 @@
+FOLDER STRUCTURE
+
+{
+    "1": "replaced-batches/{}/*/*/*coco 1.0.zip",
+    "2": "replaced-batches/{}/*/*/*coco 1.0.zip",
+    "3": "replaced-batches/{}/*/*/*coco 1.0.zip",
+    "4": "replaced-batches/{}/*coco 1.0.zip",
+    "5": "replaced-batches/{}/*/*/*coco 1.0.zip",
+    "6": "replaced-batches/{}/*/*/*coco 1.0.zip",
+    "7": "replaced-batches/{}/*/*/*coco 1.0.zip",
+    "8": "replaced-batches/{}/*coco 1.0.zip",
+    "9": "replaced-batches/{}/*coco 1.0.zip",
+    "10": "replaced-batches/{}/*coco 1.0.zip",
+    "11": "replaced-batches/{}/*coco 1.0.zip"
+}
+

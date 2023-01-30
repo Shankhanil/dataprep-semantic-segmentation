@@ -1,0 +1,41 @@
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-coco 1/annotations replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages 33
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-coco 1/annotations replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages 33
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-coco 1/annotations replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages 33
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages 33
+replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages 33
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages 11
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages 11
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages 11
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages 11
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages 11
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages 11
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-segmentation mask 1/JPEGImages 11
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Military Jackets/task_military jackets-2022_08_29_05_55_41-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages
+replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-coco 1/annotations replaced-batches/Batch 5/Male/Bomber Jackets/task_bomber jackets-2022_08_29_08_48_50-segmentation mask 1/JPEGImages 39
+copied 33 files from replaced-batches/Batch 5/Male/Lightweight Jackets/task_lightweight jackets-2022_08_23_08_16_10-segmentation mask 1/JPEGImages 
